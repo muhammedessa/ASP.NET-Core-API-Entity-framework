@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=localhost;Database=muhammed;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
